@@ -1,0 +1,51 @@
+TRADUÇÃO PT-BR — UNICORN OVERLORD (RECOMP PC DO PS4) — v1.0
+=============================================================
+
+Tradução: _Kiri_ (versão de Switch / PS5)
+Adaptação para o PS4 / recomp PC, fontes e instalador: WenderSky
+Recomp: github.com/hachi23/unicorn_overlord_pc
+
+REQUISITOS
+  - O recomp do Unicorn Overlord instalado e funcionando
+    (versão asiática do PS4, CUSA36381 v1.04, com o patch de fãs em inglês).
+  - Python 3. No Steam Deck já vem instalado. No Windows, se não tiver:
+    https://www.python.org/downloads/ (marque "Add python.exe to PATH").
+
+COMO INSTALAR
+  Windows:
+    1. Descompacte este pacote (de preferência dentro da pasta do jogo,
+       a que tem o "Unicorn Overlord.exe").
+    2. Feche o jogo.
+    3. Dê duplo-clique em instalar_traducao_windows.bat.
+       Se ele não achar o jogo, cole o caminho da pasta do jogo quando pedir.
+    4. Abra o jogo com o Text Language em "auto" (o padrão).
+
+  Steam Deck / Linux (Modo Desktop):
+    1. Copie a pasta descompactada para o Deck (de preferência dentro da
+       pasta do jogo, a que tem a AppImage).
+    2. Abra o Konsole nessa pasta e rode:
+         chmod +x instalar_traducao_linux.sh
+         ./instalar_traducao_linux.sh
+       (ou ./instalar_traducao_linux.sh "/caminho/da/pasta/do/jogo")
+
+  Instalou no PC e copiou a pasta do jogo inteira para o Deck? A tradução
+  vai junto.
+
+COMO REMOVER
+  desinstalar_traducao_windows.bat (ou ./desinstalar_traducao_linux.sh).
+  Unicorn_TW.CPK, Unicorn_CN.CPK e UnicornPatch.CPK voltam exatamente ao
+  original. Não apague os arquivos *.ptbr.undo que ficam em data/game.
+
+O QUE O INSTALADOR FAZ
+  - Coloca os textos em português em Unicorn_TW.CPK e Unicorn_CN.CPK.
+  - Redesenha as letras acentuadas nas fontes do jogo (UnicornPatch.CPK):
+    no modo de texto do PS4 elas apareciam num estilo diferente e mais baixas.
+  - Nada é sobrescrito: tudo é anexado ao fim dos arquivos e conferido.
+
+NÃO TRADUZIDO
+  - 14 telas de ajuda com texto na imagem (ficam em japonês).
+  - O título que abre cada capítulo aparece como um quadrado (problema já
+    existente do patch em inglês no recomp).
+
+Tradução de fã, sem fins lucrativos. Proibido vender ou distribuir os
+arquivos do jogo. Veja LICENSE.txt.

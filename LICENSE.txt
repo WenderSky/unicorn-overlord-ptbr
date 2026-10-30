@@ -1,0 +1,43 @@
+LICENÇA DE USO — Tradução PT-BR de Unicorn Overlord (Recomp PC do PS4)
+=====================================================================
+
+Tradução: _Kiri_ (versão de Nintendo Switch / PS5)
+Adaptação para o PS4 / recomp PC, fontes e instalador: WenderSky
+Versão: 1.0
+
+Esta é uma tradução de fã, feita SEM FINS LUCRATIVOS e SEM qualquer
+afiliação com a Atlus, a Vanillaware ou a Sega. Aplica-se apenas aos
+textos traduzidos, às letras redesenhadas e às ferramentas/instalador deste
+pacote — NÃO aos arquivos originais do jogo, que continuam sendo
+propriedade de seus detentores de direitos.
+
+VOCÊ PODE:
+  - Baixar, instalar e usar esta tradução gratuitamente.
+  - Compartilhar e redistribuir este pacote gratuitamente, desde que:
+      * mantenha os créditos aos autores (_Kiri_ e WenderSky);
+      * mantenha este arquivo de licença junto;
+      * não altere a atribuição de autoria.
+
+VOCÊ NÃO PODE:
+  - Vender, cobrar, monetizar, pedir doação obrigatória, colocar atrás
+    de paywall, anúncios com muros, encurtadores pagos, ou lucrar de
+    QUALQUER forma com esta tradução ou com sua distribuição.
+  - Distribuir os arquivos originais do jogo (Unicorn_TW.CPK,
+    Unicorn_CN.CPK, UnicornPatch.CPK ou quaisquer outros). Distribua APENAS
+    o patch e o instalador.
+  - Reivindicar a autoria da tradução como sua.
+
+Unicorn Overlord e nomes relacionados são marcas registradas da Atlus,
+Vanillaware e Sega. Este projeto é não-oficial e não substitui a compra
+do jogo original.
+
+EXCEÇÃO — FERRAMENTAS: os scripts da pasta ferramentas/ não seguem as
+restrições acima. O cpk.py vem dos projetos de recomp de saulob
+(github.com/saulob/odin-sphere-leifthrasir-pc), licenciado sob a GNU GPL
+v2, e o patcher.py, que o usa, é distribuído sob a mesma GPL v2. O texto da
+licença está em ferramentas/LICENSE-GPL-2.0.txt. As restrições acima valem
+para a tradução (os arquivos em arquivos_traducao/).
+
+O software é fornecido "como está", sem garantias. Os autores não se
+responsabilizam por qualquer dano decorrente do uso (embora o instalador
+confira o resultado e guarde um registro para desfazer).

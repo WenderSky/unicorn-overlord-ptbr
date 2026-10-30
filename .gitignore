@@ -1,0 +1,5 @@
+*.CPK
+*.cpk
+*.undo
+__pycache__/
+ferramentas_dev/
